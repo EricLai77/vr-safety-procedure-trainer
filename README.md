@@ -45,7 +45,7 @@ emergency equipment into the correct sockets in a required sequence.
 2. Open it with Unity 6000.5.8f1.
 3. Open `Assets/VRTraining/Scenes/TrainingRoom.unity`.
 4. Enter Play Mode.
-5. Use the XR Interaction Simulator or a compatible OpenXR headset.
+5. Use the XR Interaction Simulator.
 
 ## Custom 3D Asset
 
