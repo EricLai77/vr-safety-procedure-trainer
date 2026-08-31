@@ -35,9 +35,9 @@ emergency equipment into the correct sockets in a required sequence.
 
 ## Screenshots
 
-![Gameplay](Documentation/Images/hero-gameplay.png)
-![Socket feedback](Documentation/Images/socket-feedback.png)
-![Completion screen](Documentation/Images/completion.png)
+![Gameplay](Documentation/Images/hero-gameplay.jpg)
+![Socket feedback](Documentation/Images/socket-feedback.jpg)
+![Completion screen](Documentation/Images/completion.jpg)
 
 ## Running the Project
 
